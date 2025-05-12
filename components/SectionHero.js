@@ -6,7 +6,7 @@ const SectionHero = () => {
       <h1 className="md:text-6xl text-4xl font-extrabold tracking-tight max-w-3xl text-center">
         The&nbsp;
         <span className="text-blue-500">Freshest</span>
-        &nbsp;🌊 Water you'll ever drink.
+        &nbsp;🌊 Water you&apos;ll ever drink.
       </h1>
       <div>
         <p className="opacity-80 max-w-xl text-center">
